@@ -17,6 +17,7 @@ const printHelp = () => {
     `);
 };
 
+
 export {
     printError,
     printSuccess,
